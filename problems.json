@@ -1,0 +1,402 @@
+{
+    "1": {
+        "type": "derivative",
+        "problem": "\\frac{d}{dx} (\\sqrt{x^2})"
+    },
+    "2": {
+        "type": "integral",
+        "problem": "\\int_0^2 (2x - x) dx"
+    },
+    "3": {
+        "type": "limit",
+        "problem": "\\lim_{x \\to 1} (3x - 2x + 2)"
+    },
+    "4": {
+        "type": "derivative",
+        "problem": "\\frac{d}{dx} (\\frac{4x^3}{2x})"
+    },
+    "5": {
+        "type": "integral",
+        "problem": "\\int_0^5 (x + 1 - x) dx"
+    },
+    "6": {
+        "type": "limit",
+        "problem": "\\lim_{x \\to 2} (3x^2 - 3x^2 + 3x)"
+    },
+    "7": {
+        "type": "derivative",
+        "problem": "\\frac{d}{dx} (\\sqrt{49x^2})"
+    },
+    "8": {
+        "type": "integral",
+        "problem": "\\int_0^2 (8x - 8x + 4) dx"
+    },
+    "9": {
+        "type": "limit",
+        "problem": "\\lim_{x \\to 3} (x^3 - x^3 + x^2)"
+    },
+    "10": {
+        "type": "derivative",
+        "problem": "\\frac{d}{dx} (\\sqrt{100x^2})"
+    },
+    "11": {
+        "type": "integral",
+        "problem": "\\int_0^{11} (\\frac{22}{2} - 10) dx"
+    },
+    "12": {
+        "type": "limit",
+        "problem": "\\lim_{x \\to 4} (\\frac{12x}{4})"
+    },
+    "13": {
+        "type": "derivative",
+        "problem": "\\frac{d}{dx} (\\sqrt{169x^2})"
+    },
+    "14": {
+        "type": "integral",
+        "problem": "\\int_0^{14} (e^{\\ln(1)}) dx"
+    },
+    "15": {
+        "type": "limit",
+        "problem": "\\lim_{x \\to 5} (x^2 - x^2 + 3x)"
+    },
+    "16": {
+        "type": "derivative",
+        "problem": "\\frac{d}{dx} (\\frac{32x^2}{2x})"
+    },
+    "17": {
+        "type": "integral",
+        "problem": "\\int_0^{17} (\\sin^2(x) + \\cos^2(x)) dx"
+    },
+    "18": {
+        "type": "limit",
+        "problem": "\\lim_{x \\to 6} (\\frac{6x}{2})"
+    },
+    "19": {
+        "type": "derivative",
+        "problem": "\\frac{d}{dx} (\\sqrt{361x^2})"
+    },
+    "20": {
+        "type": "integral",
+        "problem": "\\int_0^{20} (\\frac{x}{x}) dx"
+    },
+    "21": {
+        "type": "limit",
+        "problem": "\\lim_{x \\to 7} (6x - 3x)"
+    },
+    "22": {
+        "type": "derivative",
+        "problem": "\\frac{d}{dx} (\\frac{44x}{2})"
+    },
+    "23": {
+        "type": "integral",
+        "problem": "\\int_0^{23} (\\csc^2(x) - \\cot^2(x)) dx"
+    },
+    "24": {
+        "type": "limit",
+        "problem": "\\lim_{x \\to 8} (4x - x)"
+    },
+    "25": {
+        "type": "derivative",
+        "problem": "\\frac{d}{dx} (\\sqrt{625x^2})"
+    },
+    "26": {
+        "type": "integral",
+        "problem": "\\int_0^{26} (\\sec^2(x) - \\tan^2(x)) dx"
+    },
+    "27": {
+        "type": "limit",
+        "problem": "\\lim_{x \\to 9} (\\frac{27x}{3})"
+    },
+    "28": {
+        "type": "derivative",
+        "problem": "\\frac{d}{dx} (\\frac{56x^2}{2x})"
+    },
+    "29": {
+        "type": "integral",
+        "problem": "\\int_0^{29} (\\frac{x}{x}) dx"
+    },
+    "30": {
+        "type": "limit",
+        "problem": "\\lim_{x \\to 10} (5x - 2x)"
+    },
+    "31": {
+        "type": "derivative",
+        "problem": "\\frac{d}{dx} (\\frac{62x^2}{2x})"
+    },
+    "32": {
+        "type": "integral",
+        "problem": "\\int_0^{32} (\\frac{x+1}{x+1}) dx"
+    },
+    "33": {
+        "type": "limit",
+        "problem": "\\lim_{x \\to 11} (\\frac{33x}{11})"
+    },
+    "34": {
+        "type": "derivative",
+        "problem": "\\frac{d}{dx} (\\sqrt{1156x^2})"
+    },
+    "35": {
+        "type": "integral",
+        "problem": "\\int_0^{35} (\\cosh^2(x) - \\sinh^2(x)) dx"
+    },
+    "36": {
+        "type": "limit",
+        "problem": "\\lim_{x \\to 12} (\\frac{36x}{12})"
+    },
+    "37": {
+        "type": "derivative",
+        "problem": "\\frac{d}{dx} (\\frac{74x}{2})"
+    },
+    "38": {
+        "type": "integral",
+        "problem": "\\int_0^{38} (2-1) dx"
+    },
+    "39": {
+        "type": "limit",
+        "problem": "\\lim_{x \\to 13} (\\frac{39x}{13})"
+    },
+    "40": {
+        "type": "derivative",
+        "problem": "\\frac{d}{dx} (\\sqrt{1600x^2})"
+    },
+    "41": {
+        "type": "integral",
+        "problem": "\\int_0^{41} (\\ln(e)) dx"
+    },
+    "42": {
+        "type": "limit",
+        "problem": "\\lim_{x \\to 14} (7x - 4x)"
+    },
+    "43": {
+        "type": "derivative",
+        "problem": "\\frac{d}{dx} (\\frac{86x}{2})"
+    },
+    "44": {
+        "type": "integral",
+        "problem": "\\int_0^{44} (\\frac{2x}{2x}) dx"
+    },
+    "45": {
+        "type": "limit",
+        "problem": "\\lim_{x \\to 15} (\\frac{45x}{3})"
+    },
+    "46": {
+        "type": "derivative",
+        "problem": "\\frac{d}{dx} (\\sqrt{2116x^2})"
+    },
+    "47": {
+        "type": "integral",
+        "problem": "\\int_0^{47} (\\frac{x^3}{x^3}) dx"
+    },
+    "48": {
+        "type": "limit",
+        "problem": "\\lim_{x \\to 16} (8x - 5x)"
+    },
+    "49": {
+        "type": "derivative",
+        "problem": "\\frac{d}{dx} (\\frac{98x^2}{2x})"
+    },
+    "50": {
+        "type": "integral",
+        "problem": "\\int_0^{50} (\\frac{50x}{50x}) dx"
+    },
+    "51": {
+        "type": "limit",
+        "problem": "\\lim_{x \\to 17} (\\frac{51x}{17})"
+    },
+    "52": {
+        "type": "derivative",
+        "problem": "\\frac{d}{dx} (\\frac{104x}{2})"
+    },
+    "53": {
+        "type": "integral",
+        "problem": "\\int_0^{53} (e^{0}) dx"
+    },
+    "54": {
+        "type": "limit",
+        "problem": "\\lim_{x \\to 18} (9x - 6x)"
+    },
+    "55": {
+        "type": "derivative",
+        "problem": "\\frac{d}{dx} (\\sqrt{3025x^2})"
+    },
+    "56": {
+        "type": "integral",
+        "problem": "\\int_0^{56} (\\frac{x^4}{x^4}) dx"
+    },
+    "57": {
+        "type": "limit",
+        "problem": "\\lim_{x \\to 19} (\\frac{57x}{19})"
+    },
+    "58": {
+        "type": "derivative",
+        "problem": "\\frac{d}{dx} (\\frac{116x^2}{2x})"
+    },
+    "59": {
+        "type": "integral",
+        "problem": "\\int_0^{59} (\\cos^2(x) + \\sin^2(x)) dx"
+    },
+    "60": {
+        "type": "limit",
+        "problem": "\\lim_{x \\to 20} (10x - 7x)"
+    },
+    "61": {
+        "type": "derivative",
+        "problem": "\\frac{d}{dx} (\\frac{122x}{2})"
+    },
+    "62": {
+        "type": "integral",
+        "problem": "\\int_0^{62} (\\sin^2(2x) + \\cos^2(2x)) dx"
+    },
+    "63": {
+        "type": "limit",
+        "problem": "\\lim_{x \\to 21} (6x - 3x)"
+    },
+    "64": {
+        "type": "integral",
+        "problem": "\\int_0^{8} (\\frac{16}{2}) dx"
+    },
+    "65": {
+        "type": "derivative",
+        "problem": "\\frac{d}{dx} (\\sqrt{4225x^2})"
+    },
+    "66": {
+        "type": "integral",
+        "problem": "\\int_0^{66} (3-2) dx"
+    },
+    "67": {
+        "type": "limit",
+        "problem": "\\lim_{x \\to 67} (2x - x)"
+    },
+    "68": {
+        "type": "derivative",
+        "problem": "\\frac{d}{dx} (\\frac{136x^2}{2x})"
+    },
+    "69": {
+        "type": "integral",
+        "problem": "\\int_0^{69} (\\frac{x^2+1}{x^2+1}) dx"
+    },
+    "70": {
+        "type": "limit",
+        "problem": "\\lim_{x \\to 70} (\\frac{2x}{2})"
+    },
+    "71": {
+        "type": "derivative",
+        "problem": "\\frac{d}{dx} (\\frac{142x}{2})"
+    },
+    "72": {
+        "type": "integral",
+        "problem": "\\int_0^{72} (\\frac{\\sqrt{x}}{\\sqrt{x}}) dx"
+    },
+    "73": {
+        "type": "limit",
+        "problem": "\\lim_{x \\to 73} (\\frac{x^2}{x})"
+    },
+    "74": {
+        "type": "derivative",
+        "problem": "\\frac{d}{dx} (\\frac{148x^2}{2x})"
+    },
+    "75": {
+        "type": "integral",
+        "problem": "\\int_0^{75} (\\frac{75}{75}) dx"
+    },
+    "76": {
+        "type": "limit",
+        "problem": "\\lim_{x \\to 76} (\\frac{x^2}{x})"
+    },
+    "77": {
+        "type": "derivative",
+        "problem": "\\frac{d}{dx} (\\sqrt{5929x^2})"
+    },
+    "78": {
+        "type": "integral",
+        "problem": "\\int_0^{78} (\\frac{2}{2}) dx"
+    },
+    "79": {
+        "type": "limit",
+        "problem": "\\lim_{x \\to 79} (\\frac{3x}{3})"
+    },
+    "80": {
+        "type": "derivative",
+        "problem": "\\frac{d}{dx} (\\frac{160x}{2})"
+    },
+    "81": {
+        "type": "integral",
+        "problem": "\\int_0^9 (\\frac{18}{2}) dx"
+    },
+    "82": {
+        "type": "limit",
+        "problem": "\\lim_{x \\to 82} (\\frac{82x}{82})"
+    },
+    "83": {
+        "type": "derivative",
+        "problem": "\\frac{d}{dx} (\\frac{166x}{2})"
+    },
+    "84": {
+        "type": "integral",
+        "problem": "\\int_0^{84} (\\frac{x^3+1}{x^3+1}) dx"
+    },
+    "85": {
+        "type": "limit",
+        "problem": "\\lim_{x \\to 85} (86x - 85x)"
+    },
+    "86": {
+        "type": "derivative",
+        "problem": "\\frac{d}{dx} (\\sqrt{7396x^2})"
+    },
+    "87": {
+        "type": "integral",
+        "problem": "\\int_0^{87} (\\frac{87}{87}) dx"
+    },
+    "88": {
+        "type": "limit",
+        "problem": "\\lim_{x \\to 88} (\\frac{10x}{10})"
+    },
+    "89": {
+        "type": "derivative",
+        "problem": "\\frac{d}{dx} (\\frac{178x}{2})"
+    },
+    "90": {
+        "type": "integral",
+        "problem": "\\int_0^{90} (\\sin^2(3x) + \\cos^2(3x)) dx"
+    },
+    "91": {
+        "type": "limit",
+        "problem": "\\lim_{x \\to 91} (\\frac{91x^2}{x^2})"
+    },
+    "92": {
+        "type": "derivative",
+        "problem": "\\frac{d}{dx} (\\frac{184x}{2})"
+    },
+    "93": {
+        "type": "integral",
+        "problem": "\\int_0^{93} (\\frac{93x}{93x}) dx"
+    },
+    "94": {
+        "type": "limit",
+        "problem": "\\lim_{x \\to 94} (\\frac{2x}{2})"
+    },
+    "95": {
+        "type": "derivative",
+        "problem": "\\frac{d}{dx} (\\sqrt{9025x^2})"
+    },
+    "96": {
+        "type": "integral",
+        "problem": "\\int_0^{96} (\\frac{x+5}{x+5}) dx"
+    },
+    "97": {
+        "type": "limit",
+        "problem": "\\lim_{x \\to 97} (98x - 97x)"
+    },
+    "98": {
+        "type": "derivative",
+        "problem": "\\frac{d}{dx} (\\frac{196x^2}{2x})"
+    },
+    "99": {
+        "type": "integral",
+        "problem": "\\int_0^{99} (\\frac{99}{99}) dx"
+    },
+    "100": {
+        "type": "limit",
+        "problem": "\\lim_{x \\to 100} (\\frac{1000x}{10x})"
+    }
+}
